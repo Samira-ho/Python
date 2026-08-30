@@ -1,4 +1,4 @@
-alu=float(input('Quantos dias alugado?'))
+alu=int(input('Quantos dias alugado?'))
 qui=float(input('Quantos Km rodados?'))
 di=60*alu
 va=0.15*qui
